@@ -1,0 +1,47 @@
+[33mcommit f7b44fe09793b72092018f7fa42f0dd89827a376[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: HHH917 <917388227@QQ.COM>
+Date:   Thu Apr 18 17:42:29 2019 +0800
+
+    study file
+
+[33mcommit 39b567e3a3ac206928eba79b7bfd5e3e920c0544[m
+Author: HHH917 <917388227@QQ.COM>
+Date:   Thu Apr 18 16:05:54 2019 +0800
+
+    remove test.txt
+
+[33mcommit fc4753d4a3cf0bfcb2862e7bd1cccf867d47901a[m
+Author: HHH917 <917388227@QQ.COM>
+Date:   Thu Apr 18 16:03:25 2019 +0800
+
+    add test.txt
+
+[33mcommit d43c85b3a33869cf00b17231782702a8a7803c91[m
+Author: HHH917 <917388227@QQ.COM>
+Date:   Thu Apr 18 15:50:34 2019 +0800
+
+    git tracks changes
+
+[33mcommit 46012feb0d028279e9f89d21cdb1a945276c427f[m
+Author: HHH917 <917388227@QQ.COM>
+Date:   Thu Apr 18 15:46:57 2019 +0800
+
+    git tracks changes
+
+[33mcommit 11132cf63c432b8c1d9f1c0743a60b95060f6a8c[m
+Author: HHH917 <917388227@QQ.COM>
+Date:   Thu Apr 18 15:42:48 2019 +0800
+
+    understand how stage works
+
+[33mcommit 7d516637ece910adc28a393be273b2bbb66521e4[m
+Author: HHH917 <917388227@QQ.COM>
+Date:   Thu Apr 18 15:14:17 2019 +0800
+
+    append GPL
+
+[33mcommit 504405a20a2b3893397896c820e5759c42c61170[m
+Author: HHH917 <917388227@QQ.COM>
+Date:   Wed Apr 17 20:53:59 2019 +0800
+
+    wrote a readme file
